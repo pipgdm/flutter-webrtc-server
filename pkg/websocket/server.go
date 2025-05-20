@@ -11,8 +11,6 @@ import (
 type WebSocketServerConfig struct {
 	Host           string
 	Port           int
-	CertFile       string
-	KeyFile        string
 	HTMLRoot       string
 	WebSocketPath  string
 	TurnServerPath string
