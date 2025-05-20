@@ -3,6 +3,8 @@
  
 A simple WebRTC Signaling server for flutter-webrtc and html5.
 
+Simple functioning server, directing to EC2 TURN server
+
 Online Demo: https://demo.cloudwebrtc.com:8086/
 
 ## Features
